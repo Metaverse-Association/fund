@@ -7,4 +7,4 @@ There is a massive gap in our industry related to funding sources for Open Metav
 
 It is our belief that the open Metaverse is dependent on collaboration. We do not aspire to be a single institution, but actually work alongside the different stakeholders, because we all ultimately share the same vision. 
 
-This is a new repo, meant to serve as a clean slate. Let's shape this association together, as a collective. 
+This is a new repo, meant to serve as a clean slate. We rally around [milestones](https://github.com/Metaverse-Association/fund/milestones), and [feedback discussions](https://github.com/Metaverse-Association/feedback/discussions) Let's shape this association together, as a collective. 

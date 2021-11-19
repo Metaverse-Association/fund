@@ -11,6 +11,6 @@ It is our belief that the open Metaverse is dependent on collaboration. We do no
 
 This is a new repo, meant to serve as a clean slate. We rally around [milestones](https://github.com/Metaverse-Association/fund/milestones), and [feedback discussions](https://github.com/Metaverse-Association/feedback/discussions) Let's shape this association together, as a collective. We don't know what we don't know, and hope you'll help us make this group impactful and collaborative. 
 
-## Getting Funding 
+## Getting Funded 
 
 We are a new org, but we hope to serve the Metaverse quickly. We want to support people building for an Open and Interoperable Metaverse. To submit a funding request for review, please review: [Our Guidelines: What we are looking to fund]() for more information for how to qualify. More information about when, and how to come. 

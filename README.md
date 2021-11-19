@@ -14,3 +14,7 @@ This is a new repo, meant to serve as a clean slate. We rally around [milestones
 ## Getting Funded 
 
 We are a new org, but we hope to serve the Metaverse quickly. We want to support people building for an Open and Interoperable Metaverse. To submit a funding request for review, please review: [Our Guidelines: What we are looking to fund]() for more information for how to qualify. More information about when, and how to come. 
+
+## Raising Funds 
+
+We opted to start as a traditional non-profit. We believe that open metaverse creators deserve a chance to build out the critical infrastructure necessary for a more collaborative and open metaverse. We don't believe that should solely be driven by immediate profitability. We all benefit from interoperability and the open metaverse. That is why we intend to create avenues for traditional funds to get involved with supporting these projects. We intend to roll out new orgs and services in the future to help creators with a path to profitability scale as needed, and to help those without a path to profitability to succeed as intended. The metaverse is bigger than one org. 

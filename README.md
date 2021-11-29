@@ -1,4 +1,8 @@
-# The Open Metaverse Fund
+# Metaverse Association Open Metaverse Non-Profit Grant Fund
+###### tags: `fund`
+
+[![hackmd-github-sync-badge](https://hackmd.io/RoZWsipiSDKNDy1CyIqifQ/badge)](https://hackmd.io/RoZWsipiSDKNDy1CyIqifQ)
+
 
 The Metaverse Association is a traditional non-profit foundation that funds open metaverse projects, and collaborates with web3 and web2 communities.
 

@@ -1,4 +1,4 @@
-# Metaverse Association Open Metaverse Non-Profit Grant Fund
+# Metaverse Association Open Metaverse Non-Profit Grant Fund Planning Repo
 ###### tags: `fund`
 
 [![hackmd-github-sync-badge](https://hackmd.io/RoZWsipiSDKNDy1CyIqifQ/badge)](https://hackmd.io/RoZWsipiSDKNDy1CyIqifQ)

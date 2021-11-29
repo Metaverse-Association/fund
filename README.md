@@ -1,4 +1,5 @@
 # The Open Metaverse Fund
+
 The Metaverse Association is a traditional non-profit foundation that funds open metaverse projects, and collaborates with web3 and web2 communities.
 
 We believe the open metaverse represents one of the largest social changes that will happen in our lifetime. It is imperative that it is open, interoperable, and that the foundational principles target positive outcomes for society. 

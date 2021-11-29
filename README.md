@@ -1,5 +1,5 @@
 # The Open Metaverse Fund
-The Metaverse Association is a traditional non-profit that funds open metaverse projects, and collaborates with web3 and web2 communities.
+The Metaverse Association is a traditional non-profit foundation that funds open metaverse projects, and collaborates with web3 and web2 communities.
 
 We believe the open metaverse represents one of the largest social changes that will happen in our lifetime. It is imperative that it is open, interoperable, and that the foundational principles target positive outcomes for society. 
 
@@ -17,4 +17,4 @@ We are a new org, but we hope to serve the Metaverse quickly. We want to support
 
 ## Raising Funds 
 
-We opted to start as a traditional non-profit. We believe that open metaverse creators deserve a chance to build out the critical infrastructure necessary for a more collaborative and open metaverse. We don't believe that should solely be driven by immediate profitability. We all benefit from interoperability and the open metaverse. That is why we intend to create avenues for traditional funds to get involved with supporting these projects. We intend to roll out new orgs and services in the future to help creators with a path to profitability scale as needed, and to help those without a path to profitability to succeed as intended. The metaverse is bigger than one org. 
+We opted to start as a traditional non-profit foundation. We believe that open metaverse creators deserve a chance to build out the critical infrastructure necessary for a more collaborative and open metaverse. We don't believe that should solely be driven by immediate profitability. We all benefit from interoperability and the open metaverse. That is why we intend to create avenues for traditional funds to get involved with supporting these projects. We intend to roll out new orgs and services in the future to help creators with a path to profitability scale as needed, and to help those without a path to profitability to succeed as intended. The metaverse is bigger than one org. 

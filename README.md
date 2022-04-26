@@ -1,8 +1,9 @@
-# Metaverse Association - Non-profit Foundation for the Open Metaverse 
+# Metaverse Association - Non-profit Foundation for the Open Metaverse: PROJECT ON HOLD
 ###### tags: `fund`
 
 [![hackmd-github-sync-badge](https://hackmd.io/RoZWsipiSDKNDy1CyIqifQ/badge)](https://hackmd.io/RoZWsipiSDKNDy1CyIqifQ)
 
+###### Note: This project is on hold. If you would like to assist or help lead this effort please reach out. People care about the problem we are hoping to solve, but it would need more effort than we can currently provide. Ideally, we can resume this in the near future, but we don't want to bottleneck this effort. Cheers, and let's make the Metaverse open, together. 
 
 The Metaverse Association is a traditional non-profit foundation that funds open metaverse project    s, and collaborates with web3 and web2 communities.
 
